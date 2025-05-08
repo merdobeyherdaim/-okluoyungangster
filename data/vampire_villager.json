@@ -1,1 +1,62 @@
+{
+  "roles": {
+    "villager": [
+      {
+        "question": "Bir köylü olarak, gece boyunca hiç uyanmadın ve hiçbir şey görmedin. Sabah uyandığında, etrafındaki bir köylü öldürülmüş. Ne yaparsın?"
+      },
+      {
+        "question": "Köydeki birinin sana sürekli vampir olduğuna dair şüphelerini dile getirdi. Bu durumda nasıl tepki verirsin?"
+      },
+      {
+        "question": "Bir gece köyün etrafında sesler duyuyorsun. Ne yaparsın?"
+      },
+      {
+        "question": "Gece vampirlerin kim olduğunu öğrenmeye çalışırken, fark edilmeden birini takip ediyorsun. Ne düşünürsün?"
+      },
+      {
+        "question": "Bir köylü senin güvenini kazanmak için sürekli seni savunuyor. Vampir olduğundan şüpheleniyor musun?"
+      },
+      {
+        "question": "Vampirlerin kimliğini ortaya çıkarmak için kimleri daha dikkatli gözlemlemen gerekir?"
+      }
+    ],
+    "vampire": [
+      {
+        "question": "Bir vampir olarak, köylüler seni tanımadan önce onları nasıl manipüle edersin?"
+      },
+      {
+        "question": "Bir köylü seni suçlamak için yanlış bilgi verirse, onunla nasıl başa çıkarsın?"
+      },
+      {
+        "question": "Gece köydeki birini öldürmeyi planlıyorsun. Bunu yaparken ne tür bir strateji izlersin?"
+      },
+      {
+        "question": "Bir köylü seni öldürmeye kalkarsa, nasıl savunursun?"
+      },
+      {
+        "question": "Vampir olduğunuzu öğrenen bir köylü, başkalarına bunu söylemekle tehdit ediyor. Ne yaparsın?"
+      },
+      {
+        "question": "Gece boyunca köyün çevresine yerleştirilmiş tuzakları aşmak için nasıl bir yol izlersin?"
+      }
+    ],
+    "mafia": [
+      {
+        "question": "Bir mafya lideri olarak, seni öldürmek isteyen düşmanları nasıl saf dışı bırakırsın?"
+      },
+      {
+        "question": "Herkes sana güveniyor ama bir anda bir ihanetle karşılaşıyorsun. Bunu nasıl tersine çevirirsin?"
+      },
+      {
+        "question": "Mafya dünyasında sadakat ve güven ne kadar önemlidir?"
+      },
+      {
+        "question": "Birkaç mafya üyesi senin planlarına karşı çıkarsa, onlarla nasıl başa çıkarsın?"
+      },
+      {
+        "question": "Düşmanının zayıf noktalarını öğrenmek için hangi stratejileri uygularsın?"
+      }
+    ]
+  }
+}
 
