@@ -1,1 +1,24 @@
+{
+  "easy": [
+    {"question": "2 + 3", "answer": 5},
+    {"question": "5 - 2", "answer": 3},
+    {"question": "3 * 4", "answer": 12},
+    {"question": "8 / 2", "answer": 4},
+    {"question": "7 + 6", "answer": 13}
+  ],
+  "medium": [
+    {"question": "15 + 13", "answer": 28},
+    {"question": "18 / 3", "answer": 6},
+    {"question": "24 * 2", "answer": 48},
+    {"question": "36 / 4", "answer": 9},
+    {"question": "54 - 12", "answer": 42}
+  ],
+  "hard": [
+    {"question": "56 * 9", "answer": 504},
+    {"question": "72 / 8", "answer": 9},
+    {"question": "35 * 14", "answer": 490},
+    {"question": "180 / 15", "answer": 12},
+    {"question": "125 * 8", "answer": 1000}
+  ]
+}
 
